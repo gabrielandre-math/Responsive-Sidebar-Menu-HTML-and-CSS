@@ -77,9 +77,7 @@
   margin-right: 15px;
 }
 .night-theme { background-color: #312e81; }
-.light-theme {
-  background-color: #f3f4f6;
-}
+.light-theme { background-color: #f3f4f6; }
 .dark-theme {
   background-color: #111827;
 }
