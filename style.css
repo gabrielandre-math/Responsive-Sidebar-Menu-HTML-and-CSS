@@ -76,9 +76,7 @@
   cursor: pointer;
   margin-right: 15px;
 }
-.night-theme {
-  background-color: #312e81;
-}
+.night-theme { background-color: #312e81; }
 .light-theme {
   background-color: #f3f4f6;
 }
