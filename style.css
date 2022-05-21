@@ -80,9 +80,7 @@
 .light-theme { background-color: #f3f4f6; }
 .dark-theme { background-color: #111827; }
 @media only screen and (max-width: 768px) {
-  .sidebar {
-    width: 50px;
-  }
+  .sidebar { width: 50px; }
   .sidebar-top,
   .sidebar-bottom,
   .sidebar-center {
