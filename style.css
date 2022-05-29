@@ -85,9 +85,7 @@
   .sidebar-bottom,
   .sidebar-center { border-bottom: none; }
   .brand,
-  .list-item-text {
-    display: none;
-  }
+  .list-item-text { display: none;}
 }
 
 .sidebar.night-theme {
