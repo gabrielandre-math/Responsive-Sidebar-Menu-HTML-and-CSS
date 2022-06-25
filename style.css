@@ -12,7 +12,6 @@
   flex-direction: column;
   transition: width 1s;
 }
-
 .sidebar-top,
 .sidebar-bottom,
 .sidebar-center {
