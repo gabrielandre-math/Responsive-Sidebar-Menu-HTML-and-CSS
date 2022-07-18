@@ -56,7 +56,6 @@
   width: 30px;
   font-size: 20px;
 }
-
 .list-item:hover,
 .list-item.active {
   background-color: #374151;
