@@ -1,5 +1,5 @@
 # Responsive-Sidebar-Menu-HTML-and-CSS
-This a fluid responsive Sidebar Menu using just HTML and CSS
+This a fluid responsive Sidebar Menu using just HTML and CSS.
 
 Codepen link --> https://codepen.io/ANDREGABRIELS/pen/WNdxXGB?editors=1100
 
